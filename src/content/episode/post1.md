@@ -1,6 +1,6 @@
 ---
 title: Informal uniformity
-audioUrl: https://archive.org/details/informal-uniformity
+audioUrl: https://ia600504.us.archive.org/7/items/informal-uniformity/informal-uniformity.mp3
 pubDate: Oct 23 2023
 duration: 00:32
 size: 0.7
